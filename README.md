@@ -1,4 +1,4 @@
-# Area-of-triangle
+# Area-of-triangle in c++
 Using default constructor
 // WAP to create class rectangle with member l, b initialised with constructor and find area:-
 #include<iostream>
